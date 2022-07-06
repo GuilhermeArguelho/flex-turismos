@@ -1,5 +1,5 @@
 # Projeto Flex-Turismos
  
-Landing Page Responsiva
+Nesse projeto eu desenvolvo uma Landing Page de uma agência de turismo.
 
 https://guilhermearguelho.github.io/flex-turismos/
